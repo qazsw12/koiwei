@@ -11,7 +11,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"17909984-cb9d-4ee7-9efe-5cf25c6c8feb",
+                        "id":"48d34c57-b6ae-4d14-b9df-592314166d55",
                         "flow":"xtls-rprx-direct"
                     }
                 ],
@@ -21,23 +21,23 @@
                         "dest":9999
                     },
                     {
-                        "path":"/17909984-cb9d-4ee7-9efe-5cf25c6c8feb-vl",
+                        "path":"/48d34c57-b6ae-4d14-b9df-592314166d55-vl",
                         "dest":20000
                     },
                     {
-                        "path":"/17909984-cb9d-4ee7-9efe-5cf25c6c8feb-vm",
+                        "path":"/48d34c57-b6ae-4d14-b9df-592314166d55-vm",
                         "dest":10000
                     },
                     {
-                        "path":"/17909984-cb9d-4ee7-9efe-5cf25c6c8feb-tr",
+                        "path":"/48d34c57-b6ae-4d14-b9df-592314166d55-tr",
                         "dest":30000
                     },
                     {
-                        "path":"/17909984-cb9d-4ee7-9efe-5cf25c6c8feb-ss",
+                        "path":"/48d34c57-b6ae-4d14-b9df-592314166d55-ss",
                         "dest":40000
                     },
                     {
-                        "path":"/17909984-cb9d-4ee7-9efe-5cf25c6c8feb-so",
+                        "path":"/48d34c57-b6ae-4d14-b9df-592314166d55-so",
                         "dest":50000
                     }
                 ]
@@ -53,7 +53,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"17909984-cb9d-4ee7-9efe-5cf25c6c8feb"
+                        "id":"48d34c57-b6ae-4d14-b9df-592314166d55"
                     }
                 ],
                 "decryption":"none"
@@ -70,7 +70,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"17909984-cb9d-4ee7-9efe-5cf25c6c8feb",
+                        "id":"48d34c57-b6ae-4d14-b9df-592314166d55",
                         "level":0,
                         "email":"argo@xray"
                     }
@@ -81,7 +81,7 @@
                 "network":"ws",
                 "security":"none",
                 "wsSettings":{
-                    "path":"/17909984-cb9d-4ee7-9efe-5cf25c6c8feb-vl"
+                    "path":"/48d34c57-b6ae-4d14-b9df-592314166d55-vl"
                 }
             },
             "sniffing":{
@@ -101,7 +101,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"17909984-cb9d-4ee7-9efe-5cf25c6c8feb",
+                        "id":"48d34c57-b6ae-4d14-b9df-592314166d55",
                         "alterId":0
                     }
                 ]
@@ -109,7 +109,7 @@
             "streamSettings":{
                 "network":"ws",
                 "wsSettings":{
-                    "path":"/17909984-cb9d-4ee7-9efe-5cf25c6c8feb-vm"
+                    "path":"/48d34c57-b6ae-4d14-b9df-592314166d55-vm"
                 }
             },
             "sniffing":{
@@ -137,7 +137,7 @@
                 "network":"ws",
                 "security":"none",
                 "wsSettings":{
-                    "path":"/17909984-cb9d-4ee7-9efe-5cf25c6c8feb-tr"
+                    "path":"/48d34c57-b6ae-4d14-b9df-592314166d55-tr"
                 }
             },
             "sniffing":{
@@ -158,7 +158,7 @@
                 "clients":[
                     {
                         "method":"chacha20-ietf-poly1305",
-                        "password":"17909984-cb9d-4ee7-9efe-5cf25c6c8feb"
+                        "password":"48d34c57-b6ae-4d14-b9df-592314166d55"
                     }
                 ],
                 "decryption":"none"
@@ -166,7 +166,7 @@
             "streamSettings":{
                 "network":"ws",
                 "wsSettings":{
-                    "path":"/17909984-cb9d-4ee7-9efe-5cf25c6c8feb-ss"
+                    "path":"/48d34c57-b6ae-4d14-b9df-592314166d55-ss"
                 }
             },
             "sniffing":{
@@ -187,15 +187,15 @@
                 "auth":"password",
                 "accounts":[
                     {
-                        "user": "17909984-cb9d-4ee7-9efe-5cf25c6c8feb",        
-                        "pass": "17909984-cb9d-4ee7-9efe-5cf25c6c8feb"   
+                        "user": "48d34c57-b6ae-4d14-b9df-592314166d55",        
+                        "pass": "48d34c57-b6ae-4d14-b9df-592314166d55"   
                     }
                 ]
             },
             "streamSettings":{
                 "network":"ws",
                 "wsSettings":{
-                    "path":"/17909984-cb9d-4ee7-9efe-5cf25c6c8feb-so"
+                    "path":"/48d34c57-b6ae-4d14-b9df-592314166d55-so"
                 }
             },
             "sniffing":{
